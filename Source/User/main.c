@@ -37,9 +37,9 @@ int main(void)
             printf("Publish success(temperature: %d, humidity: %d)\r\n", temperature, humidity);
         }
 
-        /* 延时 5 秒 */
+        /* 延时 5 秒 
         delay_ms(1800);
         delay_ms(1800);
-        delay_ms(1400);
+        delay_ms(1400);*/
     }
 }
